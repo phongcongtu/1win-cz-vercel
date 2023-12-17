@@ -5,6 +5,27 @@
     },
     "api/capcha.php": {
       "runtime": "vercel-php@0.6.0"
+    },
+    "api/blog.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+     "api/contact.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+     "api/generate_sitemap.php": {
+      "runtime": "vercel-php@0.6.0"
+    },   
+     "api/privacy.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+      "api/single.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+     "api/terms.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+     "api/thanks.php": {
+      "runtime": "vercel-php@0.6.0"
     }
   },
   "routes": [
