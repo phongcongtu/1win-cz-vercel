@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
      
-    <title>المواد</title>
+    <title>مقالة - سلعة</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="description" content="" />
@@ -38,7 +38,7 @@
           </button>
 
           <!-- lOGO TEXT HERE -->
-          <a href="index.php" class="navbar-brand">المؤثر من الداخل</a>
+          <a href="index.php" class="navbar-brand">الترويجي نبض</a>
         </div>
 
         <!-- MENU LINKS -->
@@ -62,7 +62,7 @@
             <div class="item item-first" style="background-image: url('./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg')">
               <div class="caption">
                 <div class="col-md-offset-1 col-md-10">
-                  <h1>المواد</h1>
+                  <h1>مقالة - سلعة</h1>
                 </div>
               </div>
             </div>
@@ -74,68 +74,15 @@
     <!-- NEWS -->
     <section id="news" data-stellar-background-ratio="2.5">
       <div class="container">
-        <div class="row">
-          
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="d2b0a93f8b0b03ad59e9a137552c8883.php">
-                <img src="./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>إتقان أساسيات التسويق: استراتيجيات و تكتيكات نجاح</h3>
-                <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح. سواء كنت صغير, متجر محلي أو شركة كبير...</p>
-                <a href="d2b0a93f8b0b03ad59e9a137552c8883.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+        <div class="col">
+          <h3>إتقان أساسيات التسويق: استراتيجيات و تكتيكات نجاح</h3>
+          <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح. سواء كنت صغير, متجر محلي أو شركة كبيرة ، إتقان أساسيات التسويق سوف تساعدك على جذب العملاء والاحتفاظ بهم في حين أن زيادة الأرباح الخاصة بك. لتحقيق النجاح في عالم اليوم التنافسي ، من المهم أن نفهم الأساسية واستراتيجيات التسويق التكتيكات. 
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="f1dd3c001b3e96d6fd58fca6e37343b7.php">
-                <img src="./assets/images/bulksplash-fakurian-0_8gaofrzbw.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح قوة التسويق: تعلم استراتيجية وتكتيكات أساسيات</h3>
-                <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح وفتح قوتها يمكن أن تساعدك في الوصول إ...</p>
-                <a href="f1dd3c001b3e96d6fd58fca6e37343b7.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+ابدأ بالبحث عن احتياجات العملاء و يريد—وهذا يساعد على إبلاغ المنتج الفعال في التنمية وكذلك الحملات الترويجية. إجراء أبحاث السوق إلى تحديد الأسواق المستهدفة ، وتحليل المنافسة واكتساب نظرة ثاقبة الاتجاهات التي يمكن أن تشكل الاستراتيجية الخاصة بك. وضع قيمة فريدة من نوعها تسمح لك أن تميز نفسك من المنافسين. وينبغي أن ينعكس هذا في جميع جوانب الرسائل الخاصة بك (على سبيل المثال, موقع نسخ). 
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="7bbf3d03640b8ab728981b2a1ece0b39.php">
-                <img src="./assets/images/bulksplash-contentpixie-psie8bkub0w.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح أسرار التسويق استراتيجية وتكتيكات</h3>
-                <p><strong></strong> التسويق استراتيجية وتكتيكات هي أساس أي عمل ناجح. أنها توفر اتجاه جميع جه...</p>
-                <a href="7bbf3d03640b8ab728981b2a1ece0b39.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+مرة واحدة كنت قد وضعت هوية العلامة التجارية الخاصة بك, إنشاء المحتوى مصممة خصيصا لمنصات مختلفة مثل المدونات المشاركات وسائل الاعلام الاجتماعية والبريد الإلكتروني والرسائل الإخبارية للوصول إلى العملاء المحتملين بشكل فعال مع الرسائل ذات الصلة. الاستفادة من القنوات الرقمية مثل محرك البحث الأمثل (SEO) أو الدفع لكل انقر فوق الإعلان أيضا تساعد على زيادة الرؤية عبر الإنترنت ودفع حركة المرور إلى موقع الويب الخاص بك/واجهة أيضا! 
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="uthSjH0VUIt1rgCu4KP8Kq.php">
-                <img src="./assets/images/bulksplash-clarktibbs-oqstl2l5oxi.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح قوة التسويق: تعلم استراتيجية وتكتيكات أساسيات</h3>
-                <p><strong></strong> التسويق هو أداة قوية لأي عمل ، مما يسمح لك للوصول إلى العملاء المحتملين و...</p>
-                <a href="uthSjH0VUIt1rgCu4KP8Kq.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
-
+وأخيرا متابعة النتائج بانتظام باستخدام الأدوات التحليلية مثل Google Analytics بحيث يمكنك تقييم ما يعمل على نحو أفضل بالنسبة لكل نوع الحملة و إجراء التعديلات المناسبة مع مرور الوقت وفقا لذلك ؛ وبذلك يضمن استمرار نجاح أسفل الخط! اتقان هذه المبادئ الأساسية سوف يضع أي عمل في سبيل تحقيق أهدافها - بغض النظر عن حجمها أو مكانة الصناعة!</p>
         </div>
       </div>
     </section>

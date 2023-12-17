@@ -1,125 +1,111 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
      
-    <title>Contacts</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>الاتصالات</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Tooplate" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-    <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400" rel="stylesheet" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"
-      rel="stylesheet"
-    />
-
-    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
-    <!-- Icomoon Icon Fonts-->
-    <link rel="stylesheet" href="css/icomoon.css" />
-    <!-- Bootstrap  -->
-    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/owl.carousel.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.min.css" />
 
-    <!-- Magnific Popup -->
-    <link rel="stylesheet" href="css/magnific-popup.css" />
-
-    <!-- Flexslider  -->
-    <link rel="stylesheet" href="css/flexslider.css" />
-
-    <!-- Theme style  -->
-    <link rel="stylesheet" href="css/style.css" />
-
-    <!-- Modernizr JS -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/tooplate-style.css" />
   </head>
-  <body>
-    <div class="fh5co-loader"></div>
+  <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+    <!-- PRE LOADER -->
+    <section class="preloader">
+      <div class="spinner">
+        <span class="spinner-rotate"></span>
+      </div>
+    </section>
 
-    <div id="page">
-      <nav class="fh5co-nav" role="navigation">
-        <div class="container-wrap">
-          <div class="top-menu">
-            <div class="row">
-              <div class="col-xs-2">
-                <div id="fh5co-logo">
-                  <a href="index.php" style="font-size: 10px">Product</a>
-                </div>
-              </div>
-              <div class="col-xs-10 text-right menu-1">
-                <ul>
-                  <li><a href="index.php">Main</a></li>
-                  <li><a href="blog.php">Articles</a></li>
-                  <li class="active"><a href="contact.php">Contacts</a></li>
-                  <li><a href="privacy.php">Privacy policy</a></li>
-                  <li><a href="terms.php">Terms and conditions</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
+    <!-- MENU -->
+    <section class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+          </button>
+
+          <!-- lOGO TEXT HERE -->
+          <a href="index.php" class="navbar-brand">كبار المسئولين الاقتصاديين المتخصصين</a>
         </div>
-      </nav>
-      <div class="container-wrap">
-        <aside id="fh5co-hero">
-          <div class="flexslider">
-            <ul class="slides">
-              <li style="background-image: url('./assets/images/bulksplash-szolkin-_uey8ati6d0.jpg')">
-                <div class="overlay-gradient"></div>
-                <div class="container-fluid">
-                  <div class="row">
-                    <div class="col-md-6 col-md-offset-3 col-md-pull-3 slider-text">
-                      <div class="slider-text-inner">
-                        <h1 style="color: #fff">Contacts</h1>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </aside>
 
-        <div id="fh5co-work" class="fh5co-light-grey">
-          <div class="row animate-box">
-            <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-              <p>8603 Kunze Route
-New Columbusbury, HI 48344</p>
-              <p>+9995017256226</p>
-              <p>bernita.block@veum.com</p>
+        <!-- MENU LINKS -->
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.php" class="smoothScroll">الرئيسية</a></li>
+            <li><a href="blog.php" class="smoothScroll">المواد</a></li>
+            <li><a href="contact.php" class="smoothScroll">الاتصالات</a></li>
+            <li><a href="policy.php" class="smoothScroll">سياسة الخصوصية</a></li>
+            <li><a href="terms.php" class="smoothScroll">الشروط والأحكام</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- HOME -->
+    <section id="home" class="slider" data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row">
+          <div class="owl-carousel owl-theme">
+            <div class="item item-first" style="background-image: url('./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg')">
+              <div class="caption">
+                <div class="col-md-offset-1 col-md-10">
+                  <h1>الاتصالات</h1>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-      <!-- END container-wrap -->
+    </section>
 
-      <div class="container-wrap">
-        <footer id="fh5co-footer" role="contentinfo">
-          <div class="row copyright">
-            <div class="col-md-12 text-center">
-              <p>
-                <small class="block">
+    <!-- FOOTER -->
+    <footer data-stellar-background-ratio="5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <div class="footer-thumb text-center">
+              <div class="contact-info">
+                <p><i class="fa fa-phone"></i>+2696615449334</p>
+                <p><i class="fa fa-envelope-o"></i> <a href="#">dibbert.karine@gleichner.com</a></p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-12 col-sm-12 border-top">
+            <div class="col-md-12 col-sm-12">
+              <div class="copyright-text text-center">
+                <p>
                   ©
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  Copyright</small
-                >
-              </p>
+                  Copyright
+                </p>
+              </div>
             </div>
           </div>
-        </footer>
+        </div>
       </div>
-      <!-- END container-wrap -->
-    </div>
-
-    <div class="gototop js-top">
-      <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
-    </div>
+    </footer>
 
     <div class="cookie-banner">
       <p style="color: #000000">
-        The site uses cookies. They allow us to recognize you and get information about your user experience.By continuing to browse the site, I agree to the use of cookies by the site owner in accordance with 
+        الموقع يستخدم ملفات تعريف الارتباط. أنها تسمح لنا بالتعرف عليك و الحصول على معلومات عن المستخدم الخاص بك experience.By الاستمرار في تصفح الموقع, كنت توافق على استخدام الكوكيز من قبل صاحب الموقع وفقا 
         <a target="_blank" href="https://en.wikipedia.org/wiki/HTTP_cookie"
-          >Cookie policy</a
+          >سياسة الكوكيز</a
         >
       </p>
 
@@ -141,22 +127,14 @@ New Columbusbury, HI 48344</p>
       });
     </script>
 
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
-    <!-- jQuery Easing -->
-    <script src="js/jquery.easing.1.3.js"></script>
-    <!-- Bootstrap -->
+    <!-- SCRIPTS -->
+    <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <!-- Waypoints -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <!-- Flexslider -->
-    <script src="js/jquery.flexslider-min.js"></script>
-    <!-- Magnific Popup -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    <!-- Counters -->
-    <script src="js/jquery.countTo.js"></script>
-    <!-- Main -->
-    <script src="js/main.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/custom.js"></script>
   </body>
 </html>

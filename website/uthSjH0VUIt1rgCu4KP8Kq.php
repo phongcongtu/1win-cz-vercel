@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
      
-    <title>المواد</title>
+    <title>مقالة - سلعة</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="description" content="" />
@@ -38,7 +38,7 @@
           </button>
 
           <!-- lOGO TEXT HERE -->
-          <a href="index.php" class="navbar-brand">المؤثر من الداخل</a>
+          <a href="index.php" class="navbar-brand">الترويجي معجزة</a>
         </div>
 
         <!-- MENU LINKS -->
@@ -59,10 +59,10 @@
       <div class="container">
         <div class="row">
           <div class="owl-carousel owl-theme">
-            <div class="item item-first" style="background-image: url('./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg')">
+            <div class="item item-first" style="background-image: url('./assets/images/bulksplash-clarktibbs-oqstl2l5oxi.jpg')">
               <div class="caption">
                 <div class="col-md-offset-1 col-md-10">
-                  <h1>المواد</h1>
+                  <h1>مقالة - سلعة</h1>
                 </div>
               </div>
             </div>
@@ -74,68 +74,15 @@
     <!-- NEWS -->
     <section id="news" data-stellar-background-ratio="2.5">
       <div class="container">
-        <div class="row">
-          
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="d2b0a93f8b0b03ad59e9a137552c8883.php">
-                <img src="./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>إتقان أساسيات التسويق: استراتيجيات و تكتيكات نجاح</h3>
-                <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح. سواء كنت صغير, متجر محلي أو شركة كبير...</p>
-                <a href="d2b0a93f8b0b03ad59e9a137552c8883.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+        <div class="col">
+          <h3>فتح قوة التسويق: تعلم استراتيجية وتكتيكات أساسيات</h3>
+          <p><strong></strong> التسويق هو أداة قوية لأي عمل ، مما يسمح لك للوصول إلى العملاء المحتملين ووضع العلامة التجارية الخاصة بك. اطلاق العنان للقوة كاملة من التسويق ، من المهم أن تفهم أساسيات استراتيجية وتكتيكات. تتضمن هذه الاستراتيجية تحديد الأهداف والغايات حين التكتيكات هي كل شيء عن تنفيذ تلك الخطط من أجل تحقيق النجاح.
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="f1dd3c001b3e96d6fd58fca6e37343b7.php">
-                <img src="./assets/images/bulksplash-fakurian-0_8gaofrzbw.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح قوة التسويق: تعلم استراتيجية وتكتيكات أساسيات</h3>
-                <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح وفتح قوتها يمكن أن تساعدك في الوصول إ...</p>
-                <a href="f1dd3c001b3e96d6fd58fca6e37343b7.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+الخطوة الأولى في إطلاق الطاقة من التسويق هو فهم ما يجعل فعالية الاستراتيجيات والتكتيكات. استراتيجية جيدة ينبغي أن تركز على تحقيق أهداف محددة مثل زيادة المبيعات أو زيادة ولاء العملاء. تحتاج إلى التفكير حول من هو جمهورك المستهدف, ما الرسالة التي ترغب في التواصل معهم ، أفضل طريقة للوصول إليهم و القنوات التي سوف تعمل على نحو أكثر فعالية للقيام بذلك. مرة واحدة هذه الجوانب الرئيسية تم تحديدها ، ثم حان الوقت لبدء التفكير في التنفيذ التكتيكي – كيف يمكنك التأكد من أن رسالتك تصل إلى الجمهور المستهدف? وهذا يمكن أن تنطوي على استخدام الحملات الإعلانية عبر منصات مختلفة مثل التلفزيون أو الراديو الإعلانات التجارية ؛ المشاركات وسائل الاعلام الاجتماعية ؛ البريد الإلكتروني والنشرات الإخبارية; الإعلانات عبر الإنترنت ؛ المباشر بريدية الخ ، اعتمادا على حيث الهدف الخاص بك الديموغرافية تنفق الوقت على الانترنت/غير متصل 
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="7bbf3d03640b8ab728981b2a1ece0b39.php">
-                <img src="./assets/images/bulksplash-contentpixie-psie8bkub0w.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح أسرار التسويق استراتيجية وتكتيكات</h3>
-                <p><strong></strong> التسويق استراتيجية وتكتيكات هي أساس أي عمل ناجح. أنها توفر اتجاه جميع جه...</p>
-                <a href="7bbf3d03640b8ab728981b2a1ece0b39.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
+ثم يأتي التخطيط تنفيذ الجدول الزمني لكل تكتيك جنبا إلى جنب مع مقاييس قابلة للقياس بحيث يمكن تتبع التقدم المحرز على مر الزمن ضد ما قبل وضع معايير لضمان الحصول على النتائج المتوخاة ضمن المواعيد المحددة. أخيرا, التقييم المستمر يجب أن تجري بانتظام طوال الحملة دورة بحيث يمكن إجراء تعديلات إذا لزم الأمر بناء على بيانات الأداء التي تم جمعها من الأدوات التحليلية (مثل Google Analytics). 
 
-          <div class="col-md-12 col-sm-12" style="margin-bottom: 20px">
-            <!-- NEWS THUMB -->
-            <div class="news-thumb wow fadeInUp" data-wow-delay="0.4s">
-              <a href="uthSjH0VUIt1rgCu4KP8Kq.php">
-                <img src="./assets/images/bulksplash-clarktibbs-oqstl2l5oxi.jpg" class="img-responsive" alt="" />
-              </a>
-              <div class="news-info">
-                <h3>فتح قوة التسويق: تعلم استراتيجية وتكتيكات أساسيات</h3>
-                <p><strong></strong> التسويق هو أداة قوية لأي عمل ، مما يسمح لك للوصول إلى العملاء المحتملين و...</p>
-                <a href="uthSjH0VUIt1rgCu4KP8Kq.php">قراءة المزيد</a>
-              </div>
-            </div>
-          </div>
-          
-
+من خلال الاستفادة من النهج الاستراتيجية إلى جانب مدروسة التكتيكية الإعدام مصممة خصيصا من أجل التوصل إلى النتائج المرجوة في فترات محددة سلفا - الشركات سوف تجني ثمار المرتبطة لإطلاق الإمكانات الكاملة من جهود التسويق!</p>
         </div>
       </div>
     </section>

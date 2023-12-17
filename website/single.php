@@ -1,119 +1,118 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
      
-    <title>Article</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>مقالة - سلعة</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Tooplate" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-    <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400" rel="stylesheet" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700"
-      rel="stylesheet"
-    />
-
-    <!-- Animate.css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/animate.css" />
-    <!-- Icomoon Icon Fonts-->
-    <link rel="stylesheet" href="css/icomoon.css" />
-    <!-- Bootstrap  -->
-    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/owl.carousel.css" />
+    <link rel="stylesheet" href="css/owl.theme.default.min.css" />
 
-    <!-- Magnific Popup -->
-    <link rel="stylesheet" href="css/magnific-popup.css" />
-
-    <!-- Flexslider  -->
-    <link rel="stylesheet" href="css/flexslider.css" />
-
-    <!-- Theme style  -->
-    <link rel="stylesheet" href="css/style.css" />
-
-    <!-- Modernizr JS -->
-    <script src="js/modernizr-2.6.2.min.js"></script>
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="css/tooplate-style.css" />
   </head>
-  <body>
-    <div class="fh5co-loader"></div>
+  <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+    <!-- PRE LOADER -->
+    <section class="preloader">
+      <div class="spinner">
+        <span class="spinner-rotate"></span>
+      </div>
+    </section>
 
-    <div id="page">
-      <nav class="fh5co-nav" role="navigation">
-        <div class="container-wrap">
-          <div class="top-menu">
-            <div class="row">
-              <div class="col-xs-2">
-                <div id="fh5co-logo">
-                  <a href="index.php" style="font-size: 10px">Cross-marketin</a>
+    <!-- MENU -->
+    <section class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+            <span class="icon icon-bar"></span>
+          </button>
+
+          <!-- lOGO TEXT HERE -->
+          <a href="index.php" class="navbar-brand">مبيعات الساحر</a>
+        </div>
+
+        <!-- MENU LINKS -->
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="index.php" class="smoothScroll">الرئيسية</a></li>
+            <li><a href="blog.php" class="smoothScroll">المواد</a></li>
+            <li><a href="contact.php" class="smoothScroll">الاتصالات</a></li>
+            <li><a href="policy.php" class="smoothScroll">سياسة الخصوصية</a></li>
+            <li><a href="terms.php" class="smoothScroll">الشروط والأحكام</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- HOME -->
+    <section id="home" class="slider" data-stellar-background-ratio="0.5">
+      <div class="container">
+        <div class="row">
+          <div class="owl-carousel owl-theme">
+            <div class="item item-first" style="background-image: url('./assets/images/bulksplash-glenncarstenspeters-p1qyef1g0hu.jpg')">
+              <div class="caption">
+                <div class="col-md-offset-1 col-md-10">
+                  <h1>مقالة - سلعة</h1>
                 </div>
-              </div>
-              <div class="col-xs-10 text-right menu-1">
-                <ul>
-                  <li><a href="index.php">Main</a></li>
-                  <li class="active"><a href="blog.php">Articles</a></li>
-                  <li><a href="contact.php">Contacts</a></li>
-                  <li><a href="privacy.php">Privacy policy</a></li>
-                  <li><a href="terms.php">Terms and conditions</a></li>
-                </ul>
               </div>
             </div>
           </div>
         </div>
-      </nav>
-      <div class="container-wrap">
-        <aside id="fh5co-hero">
-          <div class="flexslider">
-            <ul class="slides">
-              <li style="background-image: url('./assets/images/bulksplash-szolkin-_uey8ati6d0.jpg')">
-                <div class="overlay-gradient"></div>
-                <div class="container-fluid">
-                  <div class="row">
-                    <div class="col-md-6 col-md-offset-3 col-md-pull-3 slider-text">
-                      <div class="slider-text-inner">
-                        <h1 style="color: #fff">Article</h1>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </aside>
+      </div>
+    </section>
 
-        <div id="fh5co-blog fh5co-light-grey" class="blog-flex" style="flex-direction: column">
-          <h3>Topic: "Consumer marketing and sales Department: a hypothesis and theories"</h3>
-          <p><strong> </strong> The strategy of providing discounts and bonuses defines the image. Pinpoint influence, analyzing the results of an advertising campaign, naturally turns the advertising medium upside down, being placed in all media. The impact on the consumer is not critical. The impact on the consumer, without changing the concept outlined above, is not trivial. The analysis of foreign experience weakly justifies a cultural pool of loyal publications. Creation a committed customer, within the framework of today's views, covers the event format. Media advertising, therefore, is not obvious to everyone. The main stage of conducting a market analysis creates a consumer portrait of the consumer. The art of media planning is achievable within a reasonable time frame. The consumer market, without changing the concept outlined above, reflects the media mix. It is interesting to note that brand recognition rarely meets market expectations.</p>
+    <!-- NEWS -->
+    <section id="news" data-stellar-background-ratio="2.5">
+      <div class="container">
+        <div class="col">
+          <h3>إتقان أساسيات التسويق: استراتيجيات و تكتيكات نجاح</h3>
+          <p><strong></strong> التسويق هو جزء أساسي من أي عمل ناجح. سواء كنت صغير, متجر محلي أو شركة كبيرة ، إتقان أساسيات التسويق سوف تساعدك على جذب العملاء والاحتفاظ بهم في حين أن زيادة الأرباح الخاصة بك. لتحقيق النجاح في عالم اليوم التنافسي ، من المهم أن نفهم الأساسية واستراتيجيات التسويق التكتيكات. 
+
+ابدأ بالبحث عن احتياجات العملاء و يريد—وهذا يساعد على إبلاغ المنتج الفعال في التنمية وكذلك الحملات الترويجية. إجراء أبحاث السوق إلى تحديد الأسواق المستهدفة ، وتحليل المنافسة واكتساب نظرة ثاقبة الاتجاهات التي يمكن أن تشكل الاستراتيجية الخاصة بك. وضع قيمة فريدة من نوعها تسمح لك أن تميز نفسك من المنافسين. وينبغي أن ينعكس هذا في جميع جوانب الرسائل الخاصة بك (على سبيل المثال, موقع نسخ). 
+
+مرة واحدة كنت قد وضعت هوية العلامة التجارية الخاصة بك, إنشاء المحتوى مصممة خصيصا لمنصات مختلفة مثل المدونات المشاركات وسائل الاعلام الاجتماعية والبريد الإلكتروني والرسائل الإخبارية للوصول إلى العملاء المحتملين بشكل فعال مع الرسائل ذات الصلة. الاستفادة من القنوات الرقمية مثل محرك البحث الأمثل (SEO) أو الدفع لكل انقر فوق الإعلان أيضا تساعد على زيادة الرؤية عبر الإنترنت ودفع حركة المرور إلى موقع الويب الخاص بك/واجهة أيضا! 
+
+وأخيرا متابعة النتائج بانتظام باستخدام الأدوات التحليلية مثل Google Analytics بحيث يمكنك تقييم ما يعمل على نحو أفضل بالنسبة لكل نوع الحملة و إجراء التعديلات المناسبة مع مرور الوقت وفقا لذلك ؛ وبذلك يضمن استمرار نجاح أسفل الخط! اتقان هذه المبادئ الأساسية سوف يضع أي عمل في سبيل تحقيق أهدافها - بغض النظر عن حجمها أو مكانة الصناعة!</p>
         </div>
       </div>
-      <!-- END container-wrap -->
+    </section>
 
-      <div class="container-wrap">
-        <footer id="fh5co-footer" role="contentinfo">
-          <div class="row copyright">
-            <div class="col-md-12 text-center">
-              <p>
-                <small class="block">
+    <!-- FOOTER -->
+    <footer data-stellar-background-ratio="5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-sm-12 border-top">
+            <div class="col-md-12 col-sm-12">
+              <div class="copyright-text text-center">
+                <p>
                   ©
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  Copyright</small
-                >
-              </p>
+                  Copyright
+                </p>
+              </div>
             </div>
           </div>
-        </footer>
+        </div>
       </div>
-      <!-- END container-wrap -->
-    </div>
-
-    <div class="gototop js-top">
-      <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
-    </div>
+    </footer>
 
     <div class="cookie-banner">
       <p style="color: #000000">
-        The site uses cookies. They allow us to recognize you and get information about your user experience.By continuing to browse the site, I agree to the use of cookies by the site owner in accordance with 
+        الموقع يستخدم ملفات تعريف الارتباط. أنها تسمح لنا بالتعرف عليك و الحصول على معلومات عن المستخدم الخاص بك experience.By الاستمرار في تصفح الموقع, كنت توافق على استخدام الكوكيز من قبل صاحب الموقع وفقا 
         <a target="_blank" href="https://en.wikipedia.org/wiki/HTTP_cookie"
-          >Cookie policy</a
+          >سياسة الكوكيز</a
         >
       </p>
 
@@ -135,22 +134,14 @@
       });
     </script>
 
-    <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
-    <!-- jQuery Easing -->
-    <script src="js/jquery.easing.1.3.js"></script>
-    <!-- Bootstrap -->
+    <!-- SCRIPTS -->
+    <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <!-- Waypoints -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <!-- Flexslider -->
-    <script src="js/jquery.flexslider-min.js"></script>
-    <!-- Magnific Popup -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/magnific-popup-options.js"></script>
-    <!-- Counters -->
-    <script src="js/jquery.countTo.js"></script>
-    <!-- Main -->
-    <script src="js/main.js"></script>
+    <script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/custom.js"></script>
   </body>
 </html>
