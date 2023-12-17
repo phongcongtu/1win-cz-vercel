@@ -9,7 +9,7 @@
 </div>
 </noscript>
 <a href="https://1wcdcw.xyz/#0ly2" target="_parent">
-                          <img decoding="async" fetchpriority="high" width="302" height="76" src="capcha.png" class="attachment-large size-large wp-image-128" alt="" srcset="capcha.png 646w, capcha.png 300w" sizes="(max-width: 646px) 100vw, 646px">								</a>
+                          <img decoding="async" fetchpriority="high" width="302" height="76" src="anh.png" class="attachment-large size-large wp-image-128" alt="" srcset="anh.png 646w, anh.png 300w" sizes="(max-width: 646px) 100vw, 646px">								</a>
 
 <input type="hidden" name="q" value="EhAqCbrBesAAEAAAAAACRQBxGJnk5acGIjBuzsdr9VI0mgFwg-R3ErU22d9rdk7ZFs9g3Imc-UrpimfF28B1RsO7eCbSJtC_9i4yAXJaAUM"><input type="hidden" name="continue" value="https://www.google.com/search?q=ur&amp;oq=ur&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiPAjIHCAIQABiPAjIHCAMQABiPAtIBBzU5N2owajGoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8">
 </form>
